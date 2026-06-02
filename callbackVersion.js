@@ -78,4 +78,6 @@ function doSummerChores(name) {
     })
 }
 
-doSummerChores("Alex");
+// Running the chore sequence
+// You can pass a name with "node callbackVersion.js YourName"
+doSummerChores(process.argv[2] || 'Alex');
