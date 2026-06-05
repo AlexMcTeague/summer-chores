@@ -1,3 +1,6 @@
+// Summer Chores
+// Callback Version
+
 // Configurable variables
 // Time in milliseconds for each chore
 const choreTimer = {
